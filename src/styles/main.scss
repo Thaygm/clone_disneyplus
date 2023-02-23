@@ -3,6 +3,8 @@
 @use 'shows';
 @use 'plans';
 @use 'available-devices';
+@use 'faq';
+@use 'footer';
 
 @font-face {
     font-family: Avenir;
@@ -117,5 +119,9 @@ body {
             flex-direction: column;
             justify-content: center;
         }
+    }
+
+    .tab-size {
+        margin-right: 100px;
     }
 }
