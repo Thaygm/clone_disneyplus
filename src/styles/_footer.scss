@@ -57,7 +57,7 @@
         color: variaveis.$corTextoPrincipal;
         height: 38px;
 
-        $:hover {
+        &:hover {
             color: variaveis.$corTextoSecundario;
         }
 
