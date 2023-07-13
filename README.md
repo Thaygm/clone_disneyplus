@@ -13,7 +13,11 @@
 * 
 
 ## :rocket: Rodando o projeto
-Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
+Para rodar o repositório é necessário clonar o mesmo, instalar NPM
+npm i
+npm run build
+npm run dev
+
 ```
 <linha de comando>
 ```
